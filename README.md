@@ -1,4 +1,22 @@
-### Olá eu sou Richarlison Gustavo ⭐
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<p>
+⭐ Eu sou Richarlison Gustavo!</br>
+📖 Atualmente estou no Encino Médio, cursando Desenvolvimento de Sistemas.</br>
+🔰 Estou procurando minha primeira oportunidade de trabalho. 
+<details>
+  <summary>👨🏾‍💻 Mais Sobre Mim</summary>
+
+  - 💬 tenho 16 anos, tenho como habilidades, curso de Informática, atualmente estou no ensino médio, com curso integrado de Desenvolvimento de Sistema, e desenvolvendo novas habilidade técnicas. Tenho comunicação eficaz e clara, logo trabalho em equipe é inegável. Com pensameno crítico, gosto de manter as coisas organizadas, para manter fácil acessibilidade sobre algo.
+</details>
+</p>
+
+
+
+
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euricharlison?igsh=MTA2NWx0aGdybHVsNQ==)
 
