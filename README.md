@@ -10,7 +10,7 @@
 <details>
   <summary>👨🏾‍💻 Mais Sobre Mim</summary>
 
-  - 💬 tenho 16 anos, tenho como habilidades, curso de Informática, atualmente estou no ensino médio, com curso integrado de Desenvolvimento de Sistema, e desenvolvendo novas habilidade técnicas. Tenho comunicação eficaz e clara, logo trabalho em equipe é inegável. Com pensameno crítico, gosto de manter as coisas organizadas, para manter fácil acessibilidade sobre algo.
+  - 💬 tenho 17 anos, tenho como habilidades, curso de Informática, atualmente estou no ensino médio, com curso integrado de Desenvolvimento de Sistema, e desenvolvendo novas habilidade técnicas. Tenho comunicação eficaz e clara, logo trabalho em equipe é inegável. Com pensameno crítico, gosto de manter as coisas organizadas, para manter fácil acessibilidade sobre algo.
 </details>
 </p>
 
