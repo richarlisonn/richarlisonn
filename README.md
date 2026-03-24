@@ -40,7 +40,7 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     
-  <img max-widh=100, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  [![My Skills](https://skillicons.dev/icons?i=java,git,springbot&theme=light)](https://skillicons.dev)
           
           
 </div>
