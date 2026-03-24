@@ -40,7 +40,7 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     
-  [![My Skills](https://skillicons.dev/icons?i=java,git,springboot&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,git,linux&theme=light)](https://skillicons.dev)
           
           
 </div>
