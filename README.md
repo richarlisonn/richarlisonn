@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Hello World 👋🏾</h1>
+  <h1>Prazer, Sou RICHARLISON MENDONÇA👋🏾</h1>
 </div>
+
+**Desenvolvedor Back-End** · Estudante · Maker
 
 <p>
 ⭐ Eu sou <b>Richarlison Gustavo</b><br>
