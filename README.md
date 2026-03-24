@@ -52,8 +52,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richarlisonn&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### ✝️
-
-<b>Salmos 37:5</b><br>
-Entregue o seu caminho ao Senhor; confie nele, e ele agirá 🙌🏾
